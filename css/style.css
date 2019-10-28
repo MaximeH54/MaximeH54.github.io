@@ -8,12 +8,30 @@ body
   background-color: #212121;
 }
 
-.white
-{
-  color: white
-}
-
 .italic
 {
   font-style: italic;
+}
+
+.textlat {
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+}
+
+.fas {
+  margin-right: 1rem;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  font-family: 'Bree Serif', serif;
+}
+
+.reversepol {
+  color: #000;
+}
+
+.blop {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
